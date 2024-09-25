@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello, this is my updated Jenkins!"
+echo "Hello, this is my updated Jenkins for the trigger event!"
 
