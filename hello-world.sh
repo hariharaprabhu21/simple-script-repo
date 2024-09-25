@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello, Jenkins!"
+echo "Hello, this is my updated Jenkins!"
 
